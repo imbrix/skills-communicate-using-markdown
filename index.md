@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Dive into CS and blockchain tech
+- [ ] continue networking and devloping relationships
+- [ ] educate and build
